@@ -5,3 +5,5 @@ if str==str[::-1]:
     print("it is palindrome")
 else:
     print("not palindrome")    
+ 
+print("well done")   
